@@ -1,2 +1,6 @@
 # proposal
-把proposal写在这个地方
+
+## Introduction
+bulabualbula
+
+## Gathering Background Information
