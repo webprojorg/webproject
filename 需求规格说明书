@@ -134,8 +134,7 @@ Windows系统
 用例名	购票
 执行者	用户
 说明	用户可以在网站上进行购票
-事件基本路径	1.用户输入影视剧名称
-            2.系统显示是否有票
+事件基本路径	1.用户输入影视剧名称            2.系统显示是否有票
             3.用户进行购票
             4.系统对票信息进行更新
 替换路线	3.如果没有票则显示等待更新
@@ -145,8 +144,7 @@ Windows系统
 用例名	写影评
 执行者	用户
 说明	用户可以在网站上对影视剧进行评价
-事件基本路径	1.用户输入影视剧名称
-            2.系统显示信息
+事件基本路径	1.用户输入影视剧名称            2.系统显示信息
             3.用户进行评价
             4.系统记录评价
 替换路线	2.如果没有信息则显示等待更新
@@ -202,12 +200,12 @@ Windows系统
 
 3.1.2活动图与数据流图
 活动图：
-![image](https://github.com/li33/web1/raw/master/activity_diagram.png）
+![image](https://github.com/li33/web1/raw/master/screenshots/activity_diagram.jpg）
 
 
 
 数据流图：
-![image](https://github.com/li33/web1/raw/master/data_flow_diagram.png)
+![image](https://github.com/li33/web1/raw/master/screenshots/data_flow_diagram.jpg)
 
 
 
