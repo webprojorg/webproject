@@ -86,14 +86,20 @@ Windows系统
 
 
 3.1.2活动图与数据流图
+
 活动图：
 
+![](https://ooo.0o0.ooo/2017/06/19/5947ce07ece9a.png
 
 
 
 
 
 数据流图：
+
+![](https://ooo.0o0.ooo/2017/06/19/5947cdce6fc9e.png)
+
+
 
 
 
