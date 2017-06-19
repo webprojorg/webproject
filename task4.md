@@ -5,7 +5,8 @@
 ![](https://ooo.0o0.ooo/2017/06/19/5947dbbb0df58.png)
 # 内容建模
 ## 静态类图
- 
+![](https://ooo.0o0.ooo/2017/06/19/5947e041ade0f.png)
 ## 评论类状态图
+![](https://ooo.0o0.ooo/2017/06/19/5947e061574dc.png)
 
  
