@@ -8,5 +8,9 @@
 ![](https://ooo.0o0.ooo/2017/06/19/5947e041ade0f.png)
 ## 评论类状态图
 ![](https://ooo.0o0.ooo/2017/06/19/5947e061574dc.png)
-
+# 超文本建模
+## UWE超文本访问模型
+![](https://ooo.0o0.ooo/2017/06/20/5948957e7fcf9.jpg)
+## web模型
+![](https://ooo.0o0.ooo/2017/06/20/594895d89c269.jpg)
  
